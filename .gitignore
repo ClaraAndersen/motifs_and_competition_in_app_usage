@@ -1,5 +1,7 @@
 # Compiled source #
 ###################
+data_for_LongClara
+.ipynb_checkpoints
 *.com
 *.class
 *.dll
