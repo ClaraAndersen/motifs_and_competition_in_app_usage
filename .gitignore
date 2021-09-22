@@ -18,6 +18,7 @@ data_for_LongClara
 *.iso
 *.txt
 *.rar
+*.pkl
 *.tar
 *.zip
 *.parquet
